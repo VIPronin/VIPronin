@@ -15,8 +15,8 @@
 Как связаться со мной:  
 [![Telegram Badge](https://img.shields.io/badge/-VIPronin-blue?style=flat&logo=Telegram&logoColor=white)](https://t.me/V_I_Pronin) 
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-red?style=flat&logo=Gmail&logoColor=white)](mailto:proninvladislav@gmail.com) 
-[![Vkontakte Badge](https://img.shields.io/badge/-VK-blue?style=for-the-badge&logo=vk&color=0077FF)](https://vk.com/id138305953) 
-[![Discord Badge](https://img.shields.io/badge/-Discord-blue?style=for-the-badge&logo=discord&color=5865F2&logoColor=FFFFFF)](VIPronin#1987)
+[![Vkontakte Badge](https://img.shields.io/badge/-VK-blue?style=flat&logo=VK&color=0077FF)](https://vk.com/id138305953) 
+[![Discord Badge](https://img.shields.io/badge/-Discord-blue?style=shields.io&logo=Discord&color=5865F2&logoColor=FFFFFF)](VIPronin#1987)
 
 <!--
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/ольга-мелихова-78563192) 
