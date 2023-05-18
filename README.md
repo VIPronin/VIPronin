@@ -66,21 +66,16 @@
 ---
 test
 
+<!--
 
+-->
 <p align="center">
-  <img height="50%" width="auto" src ="https://github-readme-stats.vercel.app/api?username=VIPronin&show_icons=true&count_private=true&theme=darcula&hide_border=true&hide=issues,contribs&bg_color=00000000">
+  <!--<img height="50%" width="auto" src ="https://github-readme-stats.vercel.app/api?username=VIPronin&show_icons=true&count_private=true&theme=darcula&hide_border=true&hide=issues,contribs&bg_color=00000000">-->
   <img height="50%" width="auto" src ="https://github-readme-stats.vercel.app/api/top-langs/?username=VIPronin&layout=compact&hide_border=true&theme=darcula&bg_color=00000000&langs_count=6&hide=jupyter%20notebook,tex,css,php&exclude_repo=Pacman-AI">
   <img src ="https://github-readme-streak-stats.herokuapp.com?user=VIPronin&theme=darcula&hide_border=true&background=FFFFFF00">
   <br>
-  <br>
+
   <a href="https://www.buymeacoffee.com/VIPronin"> <img align="center" src="https://cdn.buymeacoffee.com/buttons/v2/default-orange.png" height="50" width="210" alt="aveek.saha" /></a>
-  
-  
-  <a href="https://www.facebook.com/matyo91"><img src="https://img.icons8.com/color/96/000000/facebook.png" alt="facebook"/></a>
- 
-  <a href="https://www.twitch.tv/matyo91"><img src="https://img.icons8.com/color/96/000000/twitch--v2.png" alt="twitch"/></a>
- 
-  <a href="https://vk.com/matyo91"><img src="https://img.icons8.com/nolan/96/vk-circled.png" alt="vk"/></a>
   
   <a href="https://stackoverflow.com/users/4027349/mathieu-ledru"><img src="https://img.icons8.com/color/96/000000/stackoverflow.png" alt="stackoverflow"/></a>
 </p>
@@ -88,7 +83,7 @@ test
 
  ### Пройденные курсы:
 
-| Организатор            | Курс                                          | Дата              |
+|     **Организатор**    |                  **Курс**                     |      **Даты**     |
 | :--------------------: | :-------------------------------------------: | :---------------: |
 | Yandex Practicum       | Факультет Веб разработки                      | 07/2022 - 05/2023 |
 | Stepik.org             | Инди-курс программирования на Python          | 04/2023 - xx/2023 |
@@ -105,7 +100,7 @@ test
 ### Codewars:
 
 ![codewars](https://www.codewars.com/users/VIPronin/badges/large)
-
+<!--
 ### GitHub статистика:
 
 <table>
