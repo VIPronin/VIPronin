@@ -43,7 +43,8 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original-wordmark.svg" title="PostgreSQL" alt="PostgreSQL" width="80" height="80"/>&nbsp;  
   <img src="https://github.com/devicons/devicon/blob/master/icons/pytest/pytest-original-wordmark.svg" title="pytest" alt="pytest" width="80" height="80"/>&nbsp;  
   <img src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original-wordmark.svg" title="docker" alt="docker" width="80" height="80"/>&nbsp;  
-  <img src="https://github.com/VIPronin/VIPronin/blob/main/icons/json/json-file-svgrepo-com.svg" title="JSON" alt="JSON" width="80" height="80"/>&nbsp;  
+  <img src="https://github.com/VIPronin/VIPronin/blob/main/icons/json/icons8-json-96.png" title="JSON" alt="JSON" width="80" height="80"/>&nbsp;  
+  <img src="https://github.com/VIPronin/VIPronin/blob/main/icons/nginx/nginx-1.svg" title="nginx" alt="nginx" width="80" height="80"/>&nbsp;  
 </div>
 
 ---
