@@ -35,16 +35,16 @@
 ### Технологии:
 
 <div>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="git" alt="git" width="80" height="80"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/github/github-original-wordmark.svg" title="git-hub" alt="git-hub" width="80" height="80"/>&nbsp;  
-  <img src="https://github.com/devicons/devicon/blob/master/icons/django/django-plain-wordmark.svg" title="django" alt="django" width="80" height="80"/>&nbsp;  
-  <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original-wordmark.svg" title="Python" alt="Python" width="80" height="80"/>&nbsp;  
-  <img src="https://github.com/devicons/devicon/blob/master/icons/sqlite/sqlite-original-wordmark.svg" title="sqlite" alt="sqlite" width="80" height="80"/>&nbsp;  
-  <img src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original-wordmark.svg" title="PostgreSQL" alt="PostgreSQL" width="80" height="80"/>&nbsp;  
-  <img src="https://github.com/devicons/devicon/blob/master/icons/pytest/pytest-original-wordmark.svg" title="pytest" alt="pytest" width="80" height="80"/>&nbsp;  
-  <img src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original-wordmark.svg" title="docker" alt="docker" width="80" height="80"/>&nbsp;  
-  <img src="https://github.com/VIPronin/VIPronin/blob/main/icons/json/icons8-json-96.png" title="JSON" alt="JSON" width="80" height="80"/>&nbsp;  
-  <img src="https://github.com/VIPronin/VIPronin/blob/main/icons/nginx/nginx-1.svg" title="nginx" alt="nginx" width="80" height="80"/>&nbsp;  
+  <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="git" alt="git" width="75" height="75"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/github/github-original-wordmark.svg" title="git-hub" alt="git-hub" width="75" height="75"/>&nbsp;  
+  <img src="https://github.com/devicons/devicon/blob/master/icons/django/django-plain-wordmark.svg" title="django" alt="django" width="75" height="75"/>&nbsp;  
+  <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original-wordmark.svg" title="Python" alt="Python" width="75" height="75"/>&nbsp;  
+  <img src="https://github.com/devicons/devicon/blob/master/icons/sqlite/sqlite-original-wordmark.svg" title="sqlite" alt="sqlite" width="75" height="75"/>&nbsp;  
+  <img src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original-wordmark.svg" title="PostgreSQL" alt="PostgreSQL" width="75" height="75"/>&nbsp;  
+  <img src="https://github.com/devicons/devicon/blob/master/icons/pytest/pytest-original-wordmark.svg" title="pytest" alt="pytest" width="75" height="75"/>&nbsp;  
+  <img src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original-wordmark.svg" title="docker" alt="docker" width="75" height="75"/>&nbsp;  
+  <img src="https://github.com/VIPronin/VIPronin/blob/main/icons/json/icons8-json-96.png" title="JSON" alt="JSON" width="75" height="75"/>&nbsp;  
+  <img src="https://github.com/VIPronin/VIPronin/blob/main/icons/nginx/nginx-1.svg" title="nginx" alt="nginx" width="75" height="75"/>&nbsp;  
 </div>
 
 ---
