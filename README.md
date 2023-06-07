@@ -90,7 +90,7 @@
 
 
 ### Сертификаты
-* [Yandex Practicum - Python разработчик ](https://docs.yandex.ru/docs/view?url=ya-disk%3A%2F%2F%2Fdisk%2F%D0%AF%D0%9F%20-%20%D0%94%D0%B8%D0%BF%D0%BB%D0%BE%D0%BC%20-%20Python%20%D1%80%D0%B0%D0%B7%D1%80%D0%B0%D0%B1%D0%BE%D1%82%D1%87%D0%B8%D0%BA%2FVladislav%20Pronin_20232BE00511.pdf&name=Vladislav%20Pronin_20232BE00511.pdf&uid=1130000041166750&nosw=1)
+* [Yandex Practicum - Python разработчик ](https://docs.yandex.ru/docs/view?url=ya-disk%3A%2F%2F%2Fdisk%2F%D0%AF%D0%9F%20-%20%D0%94%D0%B8%D0%BF%D0%BB%D0%BE%20-%20Python%20%D1%80%D0%B0%D0%B7%D1%80%D0%B0%D0%B1%D0%BE%D1%82%D1%87%D0%B8%D0%BA%2FVladislav%20Pronin_20232BE00511.pdf&name=Vladislav%20Pronin_20232BE00511.pdf&uid=351900038&nosw=1)
 
 --- 
 
