@@ -16,7 +16,7 @@
 [![Telegram Badge](https://img.shields.io/badge/-Telegram-blue?style=flat&logo=Telegram&logoColor=white)](https://t.me/V_I_Pronin) 
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-red?style=flat&logo=Gmail&logoColor=white)](mailto:proninvladislav@gmail.com) 
 [![Vkontakte Badge](https://img.shields.io/badge/-VK-blue?style=flat&logo=VK&color=0077FF)](https://vk.com/id138305953) 
-[![Discord Badge](https://img.shields.io/badge/-Discord-blue?style=shields.io&logo=Discord&color=5865F2&logoColor=FFFFFF)](VIPronin#1987)
+<!-- [![Discord Badge](https://img.shields.io/badge/-Discord-blue?style=shields.io&logo=Discord&color=5865F2&logoColor=FFFFFF)](VIPronin#1987) -->
 
 <!--
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/ольга-мелихова-78563192) 
@@ -81,7 +81,7 @@
 
 |     **Организатор**    |                  **Курс**                     |      **Даты**     |
 | :--------------------: | :-------------------------------------------: | :---------------: |
-| Yandex Practicum       | Факультет Веб разработки                      | 07/2022 - 05/2023 |
+| Yandex Practicum       | Python разработчик                            | 07/2022 - 05/2023 |
 | Stepik.org             | Инди-курс программирования на Python          | 04/2023 - xx/2023 |
 | МГТУ им. Н.Э. Баумана  | Инженер данных (Data engineer)                | 06/2023 - xx/2023 |
 
@@ -90,13 +90,13 @@
 
 
 ### Сертификаты
-* [название сертификата ](https://www.--link--)
+* [Yandex Practicum - Python разработчик ]([https://www.--link--](https://docs.yandex.ru/docs/view?url=ya-disk%3A%2F%2F%2Fdisk%2F%D0%AF%D0%9F%20-%20%D0%94%D0%B8%D0%BF%D0%BB%D0%BE%D0%BC%20-%20Python%20%D1%80%D0%B0%D0%B7%D1%80%D0%B0%D0%B1%D0%BE%D1%82%D1%87%D0%B8%D0%BA%2FVladislav%20Pronin_20232BE00511.pdf&name=Vladislav%20Pronin_20232BE00511.pdf&uid=1130000041166750&nosw=1))
 
 --- 
 
-### Codewars:
+<!-- ### Codewars:
 
-![codewars](https://www.codewars.com/users/VIPronin/badges/large)
+![codewars](https://www.codewars.com/users/VIPronin/badges/large) -->
 <!--
 ### GitHub статистика:
 
